@@ -1,0 +1,17 @@
+{
+    "name": "first/api",
+    "description": "To create a RESTful api for exercising",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "jixiang",
+            "email": "jlu666@hotmail.com"
+        }
+    ]
+}
